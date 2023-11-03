@@ -1,0 +1,247 @@
+.parent{
+    border: 1px solid black;
+    width: 100%;
+    height: 900px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.good{
+    border: 1px solid black;
+    width: 100%;
+    height: 400px;
+    background-image: url(image/banner.jpg) ;
+    text-align: center;
+}
+   
+
+.all{
+    border: 1px solid black;
+    width: 100%;
+    height: 150px; 
+    text-align: center;
+    margin-top: 120px;
+    color: white;
+    border: none;
+
+}
+.me{
+    font-size: 40px;
+}
+.one{
+    border: 1px solid red;
+    
+}
+
+
+
+
+
+
+.rr{
+    margin-bottom: 60px;
+    text-align: center;
+    /* margin-top: 120px; */
+    border: 1px solid blue;
+}
+.bb{
+    margin-top: -30px;
+}
+
+.jj{
+   
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pq{
+    border: 1px solid blue;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: white;
+    color: blue;
+}
+.yt{
+    font-size: larger;
+    
+    
+
+}
+.ao{
+    text-align: center;
+    width: 100%;
+    background-color: whitesmoke;
+    height: 200px;
+    margin-top: 100px;
+    font-weight: 400;
+
+}
+.re{
+    width: 320px;
+    height: 30px;
+    margin-left: 20px;
+    color: white;
+}
+.oi{
+    margin-top: -20px;
+    padding-left: 70px;
+    color: #777777;
+}
+.ry{ 
+    width: 110px;
+    height: 40px;
+    border-radius: 5px;
+    padding-right: 30px;
+    background-color: #2879fe;
+    
+}
+ 
+.img1{
+    background-image: url(image/cc.jpeg);
+    width: 300px;
+    height:250px ;
+    background-size: cover;
+    transition: 5s;
+}
+.img1:hover{
+    background-image: url(image/ignjtm.jpg);
+}
+.text1{
+    height: 40px;
+    width: 250px;
+    padding-left: 30px;
+}
+.img2{
+    background-image: url(image/dkjkfjkfo\ -\ Copy.jpeg);
+    width: 300px;
+    height:250px ;
+    background-size: cover;
+
+}
+.text2{
+    height: 40px;
+    width: 250px;
+    padding-left: 30px;
+}
+.img3{
+    background-image: url(image/fgfhgfddd\ -\ Copy.jpeg);
+    width: 300px;
+    height:250px ;
+    background-size: cover;
+
+}
+.text3{
+    height: 40px;
+    width: 250px;
+    padding-left: 30px;
+}
+.img4{
+    background-image: url(image/yru.jpeg);
+    width: 300px;
+    height:250px ;
+    background-size: cover;
+
+}
+.text4{
+    height: 40px;
+    width: 250px;
+    padding-left: 30px;
+}
+.img5{
+    background-image: url(image/jjjl\ -\ Copy.jpeg);
+    width: 300px;
+    height: 250px;
+    background-size: cover;
+}
+.text5{
+    height: 40px;
+    width: 250px;
+    padding-left: 30px;
+}
+.img6{
+   width: 300px;
+   height: 250px;
+   background-size: cover;  
+   background-image: url(image/nvbvh\ -\ Copy.jpeg)
+}
+.text6{
+    height: 40px;
+    width: 250px;
+    padding-left: 30px;
+}
+.img7{
+    background-image: url(image/pppl\ -\ Copy.jpeg);
+    width: 300px;
+    height:250px ;
+    background-size: cover;
+
+}
+.text7{
+    height: 40px;
+    width: 250px;
+    padding-left: 30px;
+}
+.img8{
+    background-image: url(image/qq\ -\ Copy.jpeg);
+    width: 300px;
+    height:250px ;
+    background-size: cover;
+
+}
+.text8{
+    height: 40px;
+    width: 250px;
+    padding-left: 30px;
+}
+.img9{
+    background-image: url(image/rr\ -\ Copy.jpeg);
+    width: 300px;
+    height:250px ;
+    background-size: cover;
+
+}
+.text9{
+    height: 40px;
+    width: 250px;
+    padding-left: 30px;
+}
+.img10{
+    width: 300px;
+    height:250px ;
+    background-size: cover;
+    background-image: url(image/rrr\ -\ Copy.jpeg);
+}
+.text10{
+    height: 40px;
+    width: 250px;
+    padding-left: 30px;
+}
+.img11{
+    width: 300px;
+    height:250px ;
+    background-size: cover;
+    background-image: url(image/xs.jpeg);
+
+}
+.text11{
+    height: 40px;
+    width: 250px;
+    padding-left: 30px;
+}
+.img12{
+    background-image: url(image/yy.jpeg);
+    width: 300px;
+    height:250px ;
+    background-size: cover;
+
+}
+.text12{
+    padding-left: 30px;
+    height: 40px;
+    width: 250px;
+}
