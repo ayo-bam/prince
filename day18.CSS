@@ -7,6 +7,7 @@
     justify-content: space-around;
     flex-direction: row;
     flex-wrap: wrap;
+    border:none;
 }
 .good{
     border: 1px solid black;
@@ -14,6 +15,7 @@
     height: 400px;
     background-image: url(image/banner.jpg) ;
     text-align: center;
+    border:none;
 }
    
 
@@ -32,7 +34,7 @@
 }
 .one{
     border: 1px solid red;
-    
+    border:none;
 }
 
 
@@ -45,6 +47,7 @@
     text-align: center;
     /* margin-top: 120px; */
     border: 1px solid blue;
+    border:none;
 }
 .bb{
     margin-top: -30px;
@@ -65,6 +68,7 @@
     border-radius: 10px;
     background-color: white;
     color: blue;
+    border:none;
 }
 .yt{
     font-size: larger;
